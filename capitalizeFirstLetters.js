@@ -15,6 +15,7 @@ function capitalizeFirstLetters(string) {
 
 module.exports = capitalizeFirstLetters;
 
+
 // Check that capitalizeFirstLetters is a function
 assert.strictEqual(typeof capitalizeFirstLetters, 'function');
 // Check that it works for an empty string
